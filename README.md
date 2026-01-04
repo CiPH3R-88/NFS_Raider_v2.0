@@ -15,7 +15,7 @@ cleaner UI, real-time hash resolution, and full BIN + VLT domain visibility.
   - BIN File
   - VLT Memory
   - VLT File
-- Runtime hash table generation from `hashes_main.txt`
+- Runtime hash table generation
 - Accurate OGVI / Attribulator-compatible hashing behavior
 - HEX ⇄ DEC synchronized input
 - Accepts:
