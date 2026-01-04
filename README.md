@@ -5,7 +5,7 @@ Need for Speed (Black Box engine titles).
 
 It is designed to behave like OGVI / Attribulator Raider while providing a
 cleaner UI, real-time hash resolution, and full BIN + VLT domain visibility.
-
+![image_alt](https://github.com/CiPH3R-88/NFS_Raider_v2.0/blob/377d983f12444ab24eb4ef96e6c4929b355466ab/mainapp.png)
 ---
 
 ## ✨ Features
