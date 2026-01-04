@@ -23,7 +23,6 @@ cleaner UI, real-time hash resolution, and full BIN + VLT domain visibility.
   - Hex values (with or without `0x`)
 - Copy-to-clipboard on all output fields
 - Tooltip preview for truncated strings
-- Clean CustomTkinter UI with Roboto Mono font
 - Standalone EXE friendly (no external dependencies at runtime)
 
 ---
