@@ -43,7 +43,7 @@ def bin_hash_32(s: str) -> int:
         h = (h * 33 + ch) & 0xFFFFFFFF
     return h
 
-# ================= VLT HASH (UNCHANGED) =================
+# ================= VLT HASH =================
 
 def u32(x): return x & 0xFFFFFFFF
 
@@ -371,3 +371,4 @@ for c in (1, 2):
 
 root.after(0, lambda: center_window(root))
 root.mainloop()
+
