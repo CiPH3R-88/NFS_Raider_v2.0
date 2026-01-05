@@ -1,0 +1,45 @@
+NFS Raider v2.0
+Copyright (c) 2026
+
+Original NFS Raider concept and inspiration:
+NFSRaider by Felipe379
+https://github.com/Felipe379/NFSRaider
+
+-------------------------------------------------------------------------------
+
+LICENSE TERMS
+
+This source code is provided for EDUCATIONAL and RESEARCH purposes only.
+
+Permission is granted to:
+- Study the source code
+- Learn from the implementation
+- Modify the code for personal, non-public experimentation
+
+The following are STRICTLY PROHIBITED without explicit written permission:
+
+- Redistributing this source code or any modified version
+- Publishing compiled binaries or executables
+- Rebranding, renaming, or claiming authorship of this project
+- Using this project or its derivatives for commercial purposes
+- Uploading forks that remove or alter author credits
+- Presenting this work as an original creation
+
+-------------------------------------------------------------------------------
+
+CREDITS AND ATTRIBUTION
+
+This project is a modern reimplementation inspired by the original
+NFS Raider created by Felipe379.
+
+All original ideas, concepts, and foundational inspiration
+from the original NFS Raider project remain the property of their
+respective authors.
+
+Attribulator / OGVI concepts and workflows are credited to:
+NFSTools and Archie.
+
+-------------------------------------------------------------------------------
+
+By accessing, copying, or using this source code, you agree to all terms
+stated above.
