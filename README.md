@@ -47,7 +47,7 @@ NFS Raider v2.0 modernizes this workflow by:
 - Presenting results side-by-side for immediate comparison
 - Maintaining strict compatibility with OGVI / Attribulator logic
 
-Original project:
+Original source:
 https://github.com/Felipe379/NFSRaider
 
 ---
