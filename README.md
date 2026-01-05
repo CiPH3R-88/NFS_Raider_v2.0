@@ -63,7 +63,10 @@ https://github.com/Felipe379/NFSRaider
 ## 📜 License
 
 This project is intended for educational, modding, and preservation purposes
-within the Need for Speed community.
+within the Need for Speed community. 
+Redistribution, rebranding, or claiming authorship is not permitted. 
+Please see the LICENSE file for full terms.
+
 
 ---
 
