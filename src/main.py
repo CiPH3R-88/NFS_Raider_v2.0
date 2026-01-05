@@ -162,7 +162,7 @@ if os.path.exists(hash_list_path):
             if not name:
                 continue
 
-            # VLT (this is the OLD WORKING logic)
+            # VLT
             vlt_mem  = vlt_hash_32(name)
             vlt_file = byteswap_u32(vlt_mem)
 
@@ -371,4 +371,5 @@ for c in (1, 2):
 
 root.after(0, lambda: center_window(root))
 root.mainloop()
+
 
